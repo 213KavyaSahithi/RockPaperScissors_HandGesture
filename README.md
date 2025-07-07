@@ -36,6 +36,7 @@ python main.py
 Press Q to quit the Game
 
 ## ✅ To-Do
+
 -> Add support for single-player mode against AI
 -> Improve gesture recognition robustness
 -> Add GUI overlay for improved game experience
