@@ -23,6 +23,7 @@ This is a fun computer vision project that lets **two players** play **Rock, Pap
 1. Clone the repository:
 
 git clone https://github.com/your-username/rock-paper-scissors-hand-gesture.git
+
 cd rock-paper-scissors-hand-gesture 
 
 2. Install Dependencies:
@@ -37,6 +38,6 @@ Press Q to quit the Game
 
 ## ✅ To-Do
 
--> Add support for single-player mode against AI
--> Improve gesture recognition robustness
--> Add GUI overlay for improved game experience
+- Add support for single-player mode against AI
+- Improve gesture recognition robustness
+- Add GUI overlay for improved game experience
