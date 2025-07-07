@@ -22,7 +22,7 @@ This is a fun computer vision project that lets **two players** play **Rock, Pap
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/rock-paper-scissors-hand-gesture.git
+git clone [https://github.com/your-username/rock-paper-scissors-hand-gesture.git](https://github.com/213KavyaSahithi/RockPaperScissors_HandGesture.git)
 
 cd rock-paper-scissors-hand-gesture 
 
